@@ -1,2 +1,2 @@
-# DBMS-project
+# GRAPHICAL PASSWORD AUTHENTICATION SYSTEM
 i am going to do project
